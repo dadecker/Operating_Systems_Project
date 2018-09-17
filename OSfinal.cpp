@@ -1,4 +1,4 @@
-//Thomas Pannozzo, Amir Afridi, David Decker, Justin Sanchez , Quicksort
+//Amir Afridi, David Decker, Justin Sanchez, Thomas Pannozzo
 //COMPILE LINE: module load compilers/gcc/6.2.0
 //              g++ -std=gnu++17 -g -Wall -o qs quicksort.cpp -lpthread -lrt
  
